@@ -2,7 +2,7 @@
 
 > **Slogan:** *Organize. Priorize. Conclua.*
 
-Projeto final desenvolvido para a disciplina de **Front-end Frameworks**, apresentando uma plataforma web SaaS moderna, minimalista e responsiva para gerenciamento inteligente de tarefas, inspirada em produtos de referência como **Linear**, **Trello** e **Notion**.
+Projeto final desenvolvido para a disciplina de **Front-end Frameworks**, apresentando uma plataforma web moderna, minimalista e responsiva para gerenciamento inteligente de tarefas, inspirada em produtos de referência como **Linear**, **Trello** e **Notion**.
 
 ---
 
@@ -141,10 +141,8 @@ Todos os 5 hooks obrigatórios do React foram empregados de maneira real e funci
 > *(Campos editáveis — preencha com os dados finais da equipe)*
 
 | Nome Completo | Matrícula / RA | Papel / Responsabilidade Principal |
-| :--- | :--- | :--- |
-| **Giovanna [Sobrenome Editável]** | `[00000000]` | Arquitetura React/TypeScript, Dashboard, Context API e Design System SaaS |
-| **[Nome do Integrante 2]** | `[00000000]` | Páginas Minhas Tarefas, Modal de CRUD, Validação de Formulários e Filtros |
-| **[Nome do Integrante 3]** | `[00000000]` | Quadro Kanban (Drag & Drop), Relatórios Analíticos, Rotas e Documentação |
+
+| **Giovanna Rodrigues** | `[01801509]` | Arquitetura React/TypeScript, Dashboard, Context API e Design System, Páginas Minhas Tarefas, Modal de CRUD, Validação de Formulários e Filtros, Quadro Kanban (Drag & Drop), Relatórios Analíticos, Rotas e Documentação |
 
 ### Divisão Detalhada das Entregas
 1. **Arquitetura e Estado Global**: Modelagem TypeScript (`types/task.ts`), persistência (`services/storageService.ts`) e Contexto (`context/TaskContext.tsx`).
