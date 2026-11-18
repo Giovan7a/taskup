@@ -110,7 +110,7 @@ export function Home() {
               <ArrowRight size={17} />
             </Link>
             <Link to="/login" className="landing-btn-secondary">
-              <span>Acessar Conta Demo</span>
+              <span>Fazer Login</span>
             </Link>
           </div>
 

@@ -7,7 +7,6 @@ import {
   User,
   ArrowRight,
   AlertCircle,
-  CheckCircle2,
   ArrowLeft,
 } from 'lucide-react';
 import { useTasks } from '../hooks/useTasks';
@@ -50,11 +49,6 @@ export function Login() {
 
     setError('');
     login(trimmedEmail, name.trim());
-    navigate('/dashboard');
-  };
-
-  const handleQuickDemo = () => {
-    login('giovanna@taskup.app', 'Giovanna');
     navigate('/dashboard');
   };
 
@@ -141,27 +135,10 @@ export function Login() {
           </div>
 
           <button type="submit" className="login-submit-btn">
-            <span>Acessar Workspace</span>
+            <span>Acessar </span>
             <ArrowRight size={16} />
           </button>
         </form>
-
-        <div className="login-demo-box">
-          <div className="login-demo-box__info">
-            <CheckCircle2 size={15} className="login-demo-box__icon" />
-            <span>
-              <strong>Modo Avaliação Acadêmica:</strong> Credenciais
-              pré-preenchidas para teste rápido.
-            </span>
-          </div>
-          <button
-            type="button"
-            className="login-demo-btn"
-            onClick={handleQuickDemo}
-          >
-            Entrar direto com Conta Demo (Giovanna)
-          </button>
-        </div>
       </div>
     </div>
   );
