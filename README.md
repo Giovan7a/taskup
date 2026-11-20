@@ -4,7 +4,7 @@
 
 Projeto final desenvolvido para a disciplina de **Front-end Frameworks**, apresentando uma plataforma web moderna, minimalista e responsiva para gerenciamento inteligente de tarefas, inspirada em produtos de referência como **Linear**, **Trello** e **Notion**.
 
-Nome:Giovanna Rodrigues Oliveira - 01801509
+Nome: Giovanna Rodrigues Oliveira - 01801509
 ---
 
 ## 📋 1. Descrição do Projeto
