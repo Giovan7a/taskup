@@ -4,6 +4,7 @@
 
 Projeto final desenvolvido para a disciplina de **Front-end Frameworks**, apresentando uma plataforma web moderna, minimalista e responsiva para gerenciamento inteligente de tarefas, inspirada em produtos de referência como **Linear**, **Trello** e **Notion**.
 
+Nome:Giovanna Rodrigues Oliveira - 01801509
 ---
 
 ## 📋 1. Descrição do Projeto
@@ -154,21 +155,25 @@ Todos os 5 hooks obrigatórios do React foram empregados de maneira real e funci
 
 ## 🖼️ 8. Prints das Telas Principais
 
-> *(Substitua os caminhos abaixo pelas capturas de tela geradas pelo grupo antes da entrega final)*
 
 1. **Página Inicial (Home — `/`)**
-   - `![Tela Home](./docs/screenshots/01-home.png)`
+   - `![Tela Home](<img width="1360" height="616" alt="WhatsApp Image 2026-11-19 at 23 15 41" src="https://github.com/user-attachments/assets/9eea5af9-4b25-4c5a-9377-d9fec290d31c" />
+ )`
 2. **Tela de Login (`/login`)**
-   - `![Tela Login](./docs/screenshots/02-login.png)`
+   - `![Tela Login(<img width="1357" height="614" alt="WhatsApp Image 2026-11-19 at 23 02 28" src="https://github.com/user-attachments/assets/6ed38471-3865-4897-9d74-e83e3ab45395" />)`
 3. **Dashboard Principal (`/dashboard`)**
-   - `![Tela Dashboard](./docs/screenshots/03-dashboard.png)`
+   - `![Tela Dashboard](<img width="1360" height="617" alt="WhatsApp Image 2026-11-19 at 22 56 52" src="https://github.com/user-attachments/assets/96f424b3-5a1b-4f23-ba20-7291980ffb2e" />
+ )`
 4. **Minhas Tarefas — CRUD e Filtros (`/tarefas`)**
-   - `![Tela Minhas Tarefas](./docs/screenshots/04-minhas-tarefas.png)`
+   - `![Tela Minhas Tarefas](<img width="1362" height="615" alt="WhatsApp Image 2026-11-19 at 22 57 28" src="https://github.com/user-attachments/assets/d6f67bcf-337e-4107-8d30-93f5c43152dc" />)`
 5. **Quadro Kanban com Drag & Drop (`/kanban`)**
-   - `![Tela Quadro Kanban](./docs/screenshots/05-kanban.png)`
+   - `![Tela Quadro Kanban](<img width="1364" height="612" alt="WhatsApp Image 2026-11-19 at 23 01 00" src="https://github.com/user-attachments/assets/fbdda2dc-6574-4ac1-863e-e856b6557b67" />
+)`
 6. **Relatórios e Produtividade (`/relatorios`)**
-   - `![Tela Relatórios](./docs/screenshots/06-relatorios.png)`
+   - `![Tela Relatórios](<img width="1363" height="611" alt="WhatsApp Image 2026-11-19 at 23 01 35" src="https://github.com/user-attachments/assets/6df019f8-fda0-4b90-bad8-e99f33ca5814" />
+)`
 
 ---
+
 
 Desenvolvido com foco em excelência visual e engenharia de software para a disciplina de **Front-end Frameworks**.
